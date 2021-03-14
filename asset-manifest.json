@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DiagnalMovieTask/static/css/main.db25cab2.chunk.css",
+    "main.js": "/DiagnalMovieTask/static/js/main.93b830b1.chunk.js",
+    "main.js.map": "/DiagnalMovieTask/static/js/main.93b830b1.chunk.js.map",
+    "runtime-main.js": "/DiagnalMovieTask/static/js/runtime-main.8eb509d6.js",
+    "runtime-main.js.map": "/DiagnalMovieTask/static/js/runtime-main.8eb509d6.js.map",
+    "static/js/2.d873fa28.chunk.js": "/DiagnalMovieTask/static/js/2.d873fa28.chunk.js",
+    "static/js/2.d873fa28.chunk.js.map": "/DiagnalMovieTask/static/js/2.d873fa28.chunk.js.map",
+    "static/js/3.474cb17c.chunk.js": "/DiagnalMovieTask/static/js/3.474cb17c.chunk.js",
+    "static/js/3.474cb17c.chunk.js.map": "/DiagnalMovieTask/static/js/3.474cb17c.chunk.js.map",
+    "index.html": "/DiagnalMovieTask/index.html",
+    "static/css/main.db25cab2.chunk.css.map": "/DiagnalMovieTask/static/css/main.db25cab2.chunk.css.map",
+    "static/js/2.d873fa28.chunk.js.LICENSE.txt": "/DiagnalMovieTask/static/js/2.d873fa28.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8eb509d6.js",
+    "static/js/2.d873fa28.chunk.js",
+    "static/css/main.db25cab2.chunk.css",
+    "static/js/main.93b830b1.chunk.js"
+  ]
+}

@@ -23,3 +23,13 @@ The page will reload if you make edits in the code .
 ### `Responsive issue `
  *On Changing the screen size in developer tool  you need to  reload the page.
  
+### `App Version  `
+version": "0.1.0
+
+### ` Diagnal App Url `
+http://shashikiran-tatoju.github.io/DiagnalMovieTask
+
+### ` Technical Details  `
+
+ This App is build using reactjs version 17.0.1 and 
+   redux version 7.2.2

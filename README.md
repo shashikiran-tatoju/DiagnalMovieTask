@@ -22,4 +22,4 @@ The page will reload if you make edits in the code .
 
 ### `Responsive issue `
  *On Changing the screen size in developer tool  you need to  reload the page.
- *css is loading  issue is there. 
+ 
